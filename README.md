@@ -4,6 +4,8 @@
 
 This project uses SQL to analyze Consumer Credit Card usage data. The goal of the project is to answer a set of questions about credit card usage and consumer spending habits. The results of the SQL queries can be found in the <a href="https://github.com/avishek09/Consumer-Credit-Card-Spend-Analysis/tree/main/analysis.sql">analysis.sql</a> file.
 
+Read the full detailed article <a href="https://avishek-choudhary.github.io/projects/Consumer%20CC%20Spend.html">here</a>.
+
 ## Installation
 
 To run this project on your machine you need to install any SQL-supported DBMS then follow the steps below:
